@@ -1,1 +1,1 @@
-# GOMYCODE.
+# GOMYCODE

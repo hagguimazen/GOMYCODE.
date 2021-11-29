@@ -1,0 +1,23 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    color: white;
+
+}
+ul li{
+    display: inline-block;
+}
+.TITLE1{
+    color: gold
+}
+
+.text{
+    color: cyan;
+}
+a{
+    color:white;
+}
+a:hover{
+    color:red;
+}
